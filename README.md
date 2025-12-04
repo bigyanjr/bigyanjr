@@ -21,7 +21,7 @@ https://youtu.be/ZPOjPdTWbbI?si=RGNoBUzv25m87Q-7( Youtube channel link
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+  </div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
