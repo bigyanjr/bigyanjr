@@ -15,7 +15,7 @@ Email Me 👉 ✉️ **Rijalbigyan1@gmail.com** For Collaboration/Project or Any
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
-https://www.youtube.com/@Om2.0 ( Youtube channel link
+https://youtu.be/ZPOjPdTWbbI?si=RGNoBUzv25m87Q-7( Youtube channel link
 
 <!-- Snake Game Repo View -->
 
@@ -35,7 +35,8 @@ https://www.youtube.com/@Om2.0 ( Youtube channel link
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
 
 ## 🌐 Socials:||
-tiktoklink:https://www.tiktok.com/@bigyan843  ||youtube:https://www.youtube.com/@Om2.000||  instagram:https://www.instagram.com/bigyanrizal21/ ||facebnook:https://www.facebook.com/bigyan.rizal.2025/
+tiktoklink:https://www.tiktok.com/@bigyan843  ||youtube:https://youtu.be/ZPOjPdTWbbI?si=RGNoBUzv25m87Q-7||  instagram:https://www.instagram.com/bigyanrizal21/ ||facebnook:https://www.facebook.com/bigyan.rizal.2025/
+linkdin:https://www.linkedin.com/in/bigyanpdrijal/
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
