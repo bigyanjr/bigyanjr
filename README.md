@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Bigyan prasad Rijal
-**A passionate Software developer /UIUX Designer || DevOps Engineer || Kafka Admin from India**
+**A passionate Software developer || UIUX Designer || DevOps Engineer || 
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **Rijalbigyan1@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Nov it solution as Backend developer
 - 🌱 **I’m currently learning:** FLUTTER 
